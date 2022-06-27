@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://marinelepen.sites.stanford.edu"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Decoding Marine Le Pen&#039;s Rhetoric - Hyperbase</title>
+ <link>https://marinelepen.sites.stanford.edu/tags/hyperbase</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>A World of Words</title>
+ <link>https://marinelepen.sites.stanford.edu/world-words</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;image-style-large&quot; src=&quot;https://marinelepen.sites.stanford.edu/sites/g/files/sbiybj8401/f/styles/large/public/field/image/mlp-_af_correlats-new_brunet_0.jpg?itok=v3PgFiDT&quot; width=&quot;480&quot; height=&quot;467&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;This picture shows the spatial lay out of Marine Le Pen&#039;s discursive universe. Using factorial analysis in Hyperbase, one can create a &quot;map&quot; of all the most used words and how they correlate to one another: the closer they are spatially, the stronger their correlation, or how often they appear together. &lt;/p&gt;
+&lt;p&gt;For instance, and unsurprisingly, &quot;immigration&quot; is close to &quot;frontière&quot; (border), &quot;problème&quot;, &quot;chômage&quot; (unemployment) but also to &quot;entreprise&quot; (companies), &quot;salaire&quot; (wages), &quot;emploi&quot; (jobs), &quot;coût&quot; (cost), &quot;concurrence&quot; (competition), which shows how Marine Le Pen&#039;s discourse on immigration is presented as an economic argument first, rather than a cultural or ethnic one.    &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/marine-le-pen&quot;&gt;Marine Le Pen&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/immigration&quot;&gt;Immigration&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/correlation&quot;&gt;Correlation&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/factorial-analysis&quot;&gt;Factorial Analysis&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/hyperbase&quot;&gt;Hyperbase&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Thu, 29 Jan 2015 22:04:10 +0000</pubDate>
+ <dc:creator>Prof Cecile Alduy</dc:creator>
+ <guid isPermaLink="false">13 at https://marinelepen.sites.stanford.edu</guid>
+</item>
+</channel>
+</rss>

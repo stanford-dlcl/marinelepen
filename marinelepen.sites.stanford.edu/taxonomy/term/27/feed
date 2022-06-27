@@ -1,0 +1,1103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xml:base="https://marinelepen.sites.stanford.edu"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+ <title>Decoding Marine Le Pen&#039;s Rhetoric - Jean-Marie Le Pen</title>
+ <link>https://marinelepen.sites.stanford.edu/tags/jean-marie-le-pen</link>
+ <description></description>
+ <language>en</language>
+<item>
+ <title>Tri-grams by author and genre</title>
+ <link>https://marinelepen.sites.stanford.edu/article/tri-grams-author-and-genre</link>
+ <description>&lt;div class=&quot;field field-name-field-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;image-style-large&quot; src=&quot;https://marinelepen.sites.stanford.edu/sites/g/files/sbiybj8401/f/styles/large/public/field/image/all_trigrams_3.jpg?itok=X6Vcf-Kg&quot; width=&quot;425&quot; height=&quot;480&quot; alt=&quot;Trigrams by author and genre&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;One of the methods we employed to study the differences between Marine Le Pen&#039;s and Jean-Marie Le Pen&#039;s rhetoric was &lt;a href=&quot;http://nlpwp.org/book/chap-ngrams.xhtml&quot; rel=&quot;nofollow&quot;&gt;n-grams&lt;/a&gt;. Briefly, n-grams are N co-occuring words in a corpus. If N = 2, we call them bi-grams; three words are tri-grams, and so on. More information about ngrams is available on this &lt;a href=&quot;http://www.text-analytics101.com/2014/11/what-are-n-grams.html&quot; rel=&quot;nofollow&quot;&gt;What are N-Grams?&lt;/a&gt; page from &quot;Text Mining &amp;amp; Analytics 101.&quot; &lt;/p&gt;
+&lt;p&gt;For the &lt;a href=&quot;https://decodingmarinelepen.stanford.edu/sites/g/files/sbiybj8401/f/all_trigrams_0.pdf&quot;&gt;attached visualization&lt;/a&gt;, we divided our corpora by author and by genre, removed high frequency, but low semantic value words (i.e., stop words), then looked for the most common tri-grams. This analysis allowed us to determine if there was a difference in the rhetoric of the two politicians and if there were differences among genres (radio interviews, television appearances, etc.). After generating lists of trigrams and their frequencies, we then converted them into a network graph using &lt;a href=&quot;http://gephi.github.io/&quot; rel=&quot;nofollow&quot;&gt;Gephi&lt;/a&gt;, so that we could see how the different trigrams clustered by genre and by author. The network is a bi-modal graph, which means it contains nodes (the circles on the graph) of two types: genre and trigram. The genres are labeled by author and genre. For example, &quot;MLP RADIO&quot; indicates radio interviews given by Marine Le Pen. The lines connecting different nodes indicate that a trigram appears in the connected genre. Few trigrams appear in more than one genre, but those that do give the network its structure.&lt;/p&gt;
+&lt;p&gt;A few things stand out immediately. First, Marine Le Pen&#039;s speeches, interviews, and writing cluster together at the top of the graph and indicate that, regardless of genre, her rhetoric as captured by common three-word phrases is clearly distinguishable from Jean-Marie Le Pen&#039;s. Moreover, we get a sense of the overall composition of our corpora. While we have a good mix of genres from Marine Le Pen, our Jean-Marie Le Pen corpora are dominated by the &quot;discours&quot; genre, to the detriment of radio and television.&lt;/p&gt;
+&lt;p&gt;Attached is a high resolution PDF if you would like to explore this network further.&lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/visualization&quot;&gt;Visualization&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/text-analysis&quot;&gt;Text Analysis&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/marine-le-pen&quot;&gt;Marine Le Pen&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/jean-marie-le-pen&quot;&gt;Jean-Marie Le Pen&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-attachments field-type-file field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Attachments:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;span class=&quot;file&quot;&gt;&lt;img class=&quot;file-icon&quot; alt=&quot;PDF icon&quot; title=&quot;application/pdf&quot; src=&quot;/modules/file/icons/application-pdf.png&quot; /&gt; &lt;a href=&quot;https://marinelepen.sites.stanford.edu/sites/g/files/sbiybj8401/f/all_trigrams_0.pdf&quot; type=&quot;application/pdf; length=141064&quot;&gt;all_trigrams.pdf&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Mon, 09 Feb 2015 18:07:06 +0000</pubDate>
+ <dc:creator>Michael Widner</dc:creator>
+ <guid isPermaLink="false">45 at https://marinelepen.sites.stanford.edu</guid>
+</item>
+<item>
+ <title>Corpus Jean-Marie Le Pen (1987-2010)</title>
+ <link>https://marinelepen.sites.stanford.edu/corpus-jean-marie-le-pen-1987-2010</link>
+ <description>&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Télévision&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Législatives 1er tour (2ème  partie) », 25 05 1997&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Campagne officielle », 27 05 1997&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, TF1, « Public », 08 02 1998&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, TF1, « TF1 20 heures », 02 03 1998&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Canal+, 15 03 1998&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, TF1, « Public », 13 12 1998&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Polémiques », 24 01 1999&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 3, « Politique dimanche », 11 04 1999&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Polémiques », 30 05 1999&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Les 4 vérités », 25 04 2000&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, TF1, « TF1 20 heures », 12 09 2000&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Les 4 vérités », 09 02 2001&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, TF1, « Répondez nous », 13 02 2001&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Les 4 vérités », 20 08 2001&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, 20 08 2001&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, TF1, « TF1 20 heures », 13 11 2001&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Elections 2002 », 17 01 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, 01 03 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 3, « Quand je serai président », 13 03 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, « 100% Politique », 22 03 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, 05 04 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Campagne officielle élection du Président de la République », 10 04 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Canal+., « Le vrai journal des présidentielles », 16 04 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Soirée élection présidentielle 2002 : 1er tour », 21 04 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, « Pierre-Luc Séguillon, l’invité », 25 04 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, TF1, « TF1 20 heures », 30 04 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, « 100% Politique », 02 05 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, TF1, « TF1 20 heures », 04 06 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Question ouverte », 07 11 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, 15 11 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, 05 03 2003&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, TMC, 12 04 2003&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « 100 minutes pour convaincre », 05 05 2003&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, 05 05 2003&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, « 100% Politique », 17 10 2003&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, TV5, 22 11 2003&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « 100 minutes pour convaincre », 11 03 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, « L’invité de Pierre-Luc Séguillon », 23 03 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, 02 06 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, « L’invité du matin », 17 09 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, 17 09 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Les 4 vérités », 18 05 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, « L’invité du matin », 20 05 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Canal+, « La matinale », 07 10 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, « L’invité de Pierre-Luc Séguillon », 21 04 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Canal+, « La matinale », 12 06 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, 15 06 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, « L’invité de Christophe Barbier », 21 09 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Canal+, « Dimanche Plus », 15 10 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, « Elysée 2007 : les 3 marches », 20 03 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Canal+, « Le grand journal », 06 04 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, BFMTV, « Elysée 2007 Olivier Mazerolle », 15 04 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Campagne officielle élection du Président de la République », 19 04 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 3, « Election présidentielle 1er&lt;br /&gt;
+					tour », 22 04 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, « L’invité de Christophe Barbier », 07 05 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, « L’invité de Christophe Barbier », 14 09 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 5, « Chez F.O.G », 12 01 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Canal+, « La matinale », 02 05 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, ITELE, « L’invité politique », 30 05 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France 2, « Les 4 vérités », 30 12 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, LCI, « L’invité de Christophe Barbier », 17 02 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, ITELE, « L’invité politique », 21 12 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Radio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Questions par A+B », 19 05 1997&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Info, « Soirée spéciale élections législatives 2ème tour », 01 06 1997&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Dernière édition », 13 02 1998&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Info, « L’invité », 17 11 1998&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Dernière édition », 19 03 1999&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Question directe », 03 06 1999&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RMC, « Le Forum RMC Info Le Point », 20 02 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RMC, « L’invité de Jean- Jacques Bourdin », 15 03 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Journal 08h00 », 21 03 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RTL, « Face aux Français », 02 04 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Europe 1, « L’interview de Jean-Pierre Elkabbach », 08 04 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Info, « Journal 19h00 », 22 04 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Europe 1, « L’interview de Jean-Pierre Elkabbach », 29 04 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Inter treize quatorze », 29 04 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Campagne officielle pour l’élection présidentielle », 01 05 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RTL, « L’invité de RTL », 01 05 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Question directe », 02 05 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RTL, « Le grand jury RTL Le Monde LCI », 02 06 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Culture, « Pot au feu », 21 04 2003&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RTL, « Le grand jury RTL Le Monde LCI », 08 02 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Res Publica », 18 02 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RMC, « L’invité de Jean- Jacques Bourdin », 17 03 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Europe 1, « L’interview de Jean-Pierre Elkabbach », 24 03 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Info, « L’invité », 07 06 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, 13 02 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RTL, « Le grand jury RTL Le Monde LCI », 17 04 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RMC, « L’invité de Jean- Jacques Bourdin », 18 04 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Question directe », 17 05 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen,  23 05 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen,  12 09 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RTL, « Le grand jury RTL Le Figaro LCI », 13 11 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Le franc parler », 10 02 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RMC, « L’invité de Jean Jacques Bourdin », 20 04 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Europe 1, « Le grand rendez- vous Europe 1 TV5Monde Le Parisien », 24 09 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RTL, « L’invité de RTL », 18 12 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Culture, « La fabrique de l’histoire », 23 02 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Europe 1, « L’interview de Jean-Pierre Elkabbach », 11 04 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Campagne officielle pour l’élection du Président de la République », 16 04 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RMC, « L’invité de Jean- Jacques Bourdin », 18 04 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Campagne officielle pour l’élection du Président de la République », 20 04 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Radio France Internationale, « Invité matin », 13 09 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RTL, « Le grand jury RTL Le Figaro LCI », 24 02 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Info, « C’est vous qui le dites », 05 03 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RTL, « L’invité de RTL », 06 08 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Culture, « En toute franchise », 15 09 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Radio Classique, « L’invité de Jean- Luc Hees », 06 02 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Info, « L’invité de France Info », 30 04 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RTL, « L’invité de RTL », 20 08 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Radio Classique, « L’invité de Guillaume Durand », 28 09 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, France Inter, « Les questions du mercredi », 16 12 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, BFM La radio de l’éco, « La tribune BFM », 10 01 2010&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, RMC, « Bourdin direct », 11 03 2010&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Radio Classique, « L’invité de Guillaume Durand », 15 04 2010&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Europe 1, « L’interview de Thierry Guerrier », 28 07 2010&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Discours&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris 1er mai », 01 05 1998&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris », 17 01 1999&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris 1er mai », 01 05 1999&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Orange Université d&#039;été », 03 09 1999&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris BBR », 26 09 1999&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris », 02 03 2000&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris congrès », 30 04 2000&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris 1er mai », 01 05 2000&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris conférence », 16 11 2000&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Saint-Cloud CN », 11 02 2001&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Aix Université d&#039;été », 02 03 2001&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  La Trinité sur mer meeting », 18 08 2001&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris BBR. », 23 09 2001&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris colloque », 01 12 2001&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Brest meeting », 19 01 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Nantes meeting », 20 01 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Tours », 26 01 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris colloque », 27 01 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Bordeaux meeting », 12 02 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Lyon convention Le Pen », 17 02 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris colloque », 21 02 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Lille meeting », 03 03 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris », 01 05 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Marseille meeting », 02 05 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Annecy Université d&#039;été », 30 08 2002&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Marseille – Vœux », 09 01 2003&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris », 02 02 2003&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Nice congrès FN », 21 04 2003&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris », 18 09 2003&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris CN », 20 09 2003&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours du 1er mai », 01 05 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Paris, Place de l&#039;Opéra », 01 05 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris banquet », 10 06 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Enghein Université d&#039;été », 08 08 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris CN », 11 12 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Strasbourg », 14 12 2004&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Strasbourg convention FN », 09 04 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris colloque », 21 05 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris », 29 05 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Bordeaux Université d&#039;été », 08 10 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris BBR », 09 10 2005&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Conférence de presse », 03 01 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, «  Vœux presse à Paris », 03 01 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, 03 03 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Paris Salon Agriculture », 03 03 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours du 1er mai », 01 05 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Paris Opéra 1er mai », 01 05 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris AN », 20 05 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, 17 06 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Paris », 17 06 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Valmy », 20 09 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Intervention au Parlement Européen », 29 09 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Palavas-les-Flots », 08 10 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours aux Herbiers », 22 10 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Parcay-Meslay », 29 10 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Bordeaux », 05 11 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours du Bourget », 12 11 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Metz  », 19 11 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Dijon », 26 11 2006&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Vœux », 04 01 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de la Plaine-Saint-Denis  », 21 01 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Yvetot », 27 01 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Nantes  », 11 02 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours au forum Chasse et Ruralité », 20 02 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Convention présidentielle de Lille », 26 02 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Marseille », 03 03 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours au Salon de l&#039;agriculture  », 06 03 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Lyon », 11 03 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Conférence de Presse - Anniversaire du traité de Rome », 23 03 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris », 23 03 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours devant l&#039;USDIFRA de Nîmes  », 24 03 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Nîmes USDIFRA », 24 03 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Toulouse », 25 03 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, 31 03 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Paris », 31 03 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Argenteuil », 06 04 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Paris  », 15 04 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Conférence de presse dans le Pas-de-Calais », 17 04 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Nice », 19 04 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours au soir du premier tour », 22 04 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours du 1er mai », 01 05 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Paris Opéra 1er mai », 01 05 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris meeting », 02 06 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris anciens combattants », 03 06 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Villepreux Université d&#039;été Egalité », 10 09 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris CN », 15 09 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris », 26 10 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris congrès FN », 18 11 2007&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris vœux presse », 13 01 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris », 06 02 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours du 1er mai », 01 05 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Paris Opéra 1er mai », 01 05 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, 24 06 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, «  Discours de PARIS Europe », 24 06 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, 28 06 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Cuers », 28 06 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Cuers Vars », 28 06 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Lormes Université d&#039;été », 06 07 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris CN », 14 12 2008&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Paris vœux presse », 08 01 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de  Arras », 15 03 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours du 1er mai », 01 05 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Paris Opéra 1er mai », 01 05 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Nice », 03 06 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Conseil national du FN », 20 09 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours de Carpentras », 28 11 2009&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours lors de la commémoration du 600ème anniversaire de Jeanne d&#039;Arc », 09 01 2012&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, « Discours traditionnel à l’occasion du 600ème anniversaire de Jeanne d’Arc », 01 05 2012&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Texte&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 01 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 01 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 02 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 02 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 03 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 03 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 04 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 04 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 05 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 05 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 06 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 06 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 07 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 07 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 09 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 09 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 10 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 10 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 11 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 11 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 12 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 12 1986&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 02 1987&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 01 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 01 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 02 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 03 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 03 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 04 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 04 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 05 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 05 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 06 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 07 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 09 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 09 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 10 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 10 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 11 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 11 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 12 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 12 1988&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 01 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 02 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 02 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 03 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 03 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 04 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 04 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 05 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 06 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 06 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 07 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 07 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 09 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 09 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 10 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 10 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 11 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 11 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 12 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 12 1989&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 01 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 02 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 02 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 03 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 04 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 04 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 05 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 05 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 06 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 06 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 07 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 07 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 09 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 09 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 10 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 10 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 11 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 11 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 12 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 12 1990&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 01 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 02 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 02 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 03 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 03 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 04 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 04 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 05 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 05 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 06 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 06 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 07 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 07 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 09 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 09 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 10 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 10 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 11 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 11 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 12 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 12 1991&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 01 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 02 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 02 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 03 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 03 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 04 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 04 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 05 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 05 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 06 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 06 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 07 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 09 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 09 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 10 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 10 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 11 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 11 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 12 1992&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 09 1993&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 10 1993&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 10 1993&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 11 1993&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 11 1993&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 01 12 1993&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;tr&gt;
+				&lt;p&gt;Jean-Marie Le Pen, Éditorial, « Lettre de Jean-Marie Le Pen », 15 12 1993&lt;/p&gt;
+			
+		&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;p&gt; &lt;/p&gt;
+&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-field-tags field-type-taxonomy-term-reference field-label-above&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Tags:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/jean-marie-le-pen&quot;&gt;Jean-Marie Le Pen&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/corpus&quot;&gt;Corpus&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/tags/t%C3%A9l%C3%A9vision&quot;&gt;Télévision&lt;/a&gt;&lt;/div&gt;&lt;div class=&quot;field-item odd&quot;&gt;&lt;a href=&quot;/tags/radio&quot;&gt;Radio&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;</description>
+ <pubDate>Sat, 31 Jan 2015 22:14:45 +0000</pubDate>
+ <dc:creator>Prof Cecile Alduy</dc:creator>
+ <guid isPermaLink="false">27 at https://marinelepen.sites.stanford.edu</guid>
+</item>
+</channel>
+</rss>
